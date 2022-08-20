@@ -136,7 +136,7 @@ body {
     border-bottom: 1px solid #ddd;
 }
 .landing {
-    background-image: url(../images/sss.webp);
+    background-image: url(./images/sss.webp);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
